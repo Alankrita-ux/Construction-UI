@@ -4,7 +4,7 @@
   "description": "UI designed for construction website ",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-page -d ."
+    "deploy": "gh-pages -d ."
   },
   "repository": {
     "type": "git",
